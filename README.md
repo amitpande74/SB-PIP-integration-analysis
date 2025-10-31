@@ -8,3 +8,4 @@ Validation and filtering of detected palindromes.
 
 ## Usage
 See main README.md for detailed usage examples.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17943021.svg)](https://doi.org/10.5281/zenodo.17943021)
